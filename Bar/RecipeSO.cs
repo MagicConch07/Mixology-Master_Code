@@ -7,6 +7,5 @@ public class RecipeSO : ScriptableObject
     public Color[] resColors;
     public int[] indexs;
     public Color color;
-
     public int price;
 }
